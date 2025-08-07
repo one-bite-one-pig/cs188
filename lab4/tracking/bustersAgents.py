@@ -175,12 +175,4 @@ class GreedyBustersAgent(BustersAgent):
         
         return best_action
 
-                
-            
-            
-                
-        
-        
-        
-        
         "*** END YOUR CODE HERE ***"
